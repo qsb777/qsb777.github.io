@@ -1,7 +1,8 @@
 ---
 date: 2021-09-01 10:20:20
 title: Eslint+Prettier配置
-tags: 工具配置
+categories: 工具配置
+tags: Eslint
 ---
 
 ### 安装插件
